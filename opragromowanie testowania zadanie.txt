@@ -1,0 +1,4 @@
+1) Napisz test plan z oczekiwanej 
+2) przetestowac dowolna strona gdzie mozna sie zalogowac np. usosweb
+3) dane do logowania sa brane z csv
+4) Piszemy w kilku punktach moj plan test
