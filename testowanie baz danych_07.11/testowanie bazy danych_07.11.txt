@@ -1,0 +1,7 @@
+poziom izolacji w transakcji
+explain w sql
+
+testowanie baz danych
+
+http://jmeter.apache.org/usermanual/build-db-test-plan.html
+https://www.blazemeter.com/blog/mysql-database-and-jmeter-how-to-test-your-connection
